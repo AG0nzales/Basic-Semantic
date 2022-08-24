@@ -1,3 +1,2 @@
-# Semantic Web Design
-
-## Just a Basic HTML & CSS web design
+# Something Semantic Static Web
+# rawr
